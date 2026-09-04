@@ -7,13 +7,13 @@ about:
   head: 5d07838
   archived: false
   latestVersion: v0.22.1
-  collectedAt: 2026-09-04T19:41:55Z
+  collectedAt: 2026-09-04T20:56:07Z
 timeline:
   created: 2019-03-18
   lastCommit: 2025-04-14
   lastRelease: 2025-01-28
 popularity:
-  star: 6363
+  star: 6361
   watcher: 47
   fork: 347
   release: 70
@@ -83,6 +83,49 @@ total:
   openIssue: 45
   commit: 709
 ---
+path: /home/runner/.x-repo/github.com/derailed/popeye
+collectedAt: 2026-09-04T20:56:08Z
+loc:
+  Go:
+    code: 17831
+    comments: 1446
+    blanks: 3196
+    files: 238
+  Yaml:
+    code: 5385
+    comments: 69
+    blanks: 72
+    files: 75
+  Json:
+    code: 1315
+    comments: 0
+    blanks: 0
+    files: 2
+  Html:
+    code: 76
+    comments: 0
+    blanks: 2
+    files: 1
+  Makefile:
+    code: 32
+    comments: 1
+    blanks: 8
+    files: 1
+  Dockerfile:
+    code: 17
+    comments: 4
+    blanks: 6
+    files: 1
+  Markdown:
+    code: 0
+    comments: 1720
+    blanks: 1205
+    files: 75
+total:
+  code: 25097
+  comments: 3331
+  blanks: 4513
+  files: 393
 ---
 date: "2026-08-24"
 repo:
