@@ -5,7 +5,7 @@ about:
   head: 5d07838
   archived: false
   latestVersion: "v0.22.1"
-  collectedAt: 2026-09-08T03:09:44Z
+  collectedAt: 2026-09-08T05:52:37Z
 timeline:
   created: 2019-03-18
   lastCommit: 2025-04-14
@@ -82,7 +82,7 @@ total:
   commit: 709
 ---
 path: /home/runner/.x-repo/github.com/derailed/popeye
-collectedAt: 2026-09-08T03:09:48Z
+collectedAt: 2026-09-08T05:52:39Z
 loc:
   Go:
     code: 17831
