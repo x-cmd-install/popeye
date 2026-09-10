@@ -1,0 +1,204 @@
+- repo: alpine_edge
+  subrepo: testing
+  srcname: popeye
+  binname: popeye
+  visiblename: popeye
+  version: 0.22.1
+  origversion: 0.22.1-r15
+  status: newest
+  summary: Kubernetes cluster resource sanitizer
+  maintainers:
+    - folliekazetani@protonmail.com
+  licenses:
+    - Apache-2.0
+- repo: arch
+  subrepo: extra
+  srcname: popeye
+  binname: popeye
+  visiblename: popeye
+  version: 0.22.1
+  origversion: 0.22.1-1
+  status: newest
+  summary: Kubernetes cluster resource sanitizer
+  licenses:
+    - Apache
+- repo: aur
+  srcname: popeye-bin
+  binname: popeye-bin
+  visiblename: popeye-bin
+  version: 0.22.1
+  origversion: 0.22.1-1
+  status: newest
+  summary: A Kubernetes cluster resource sanitizer
+  maintainers:
+    - seniordevops@aur
+  licenses:
+    - Apache 2
+- repo: freebsd
+  srcname: sysutils/popeye
+  binname: popeye
+  visiblename: sysutils/popeye
+  version: 0.22.1
+  origversion: 0.22.1_15
+  status: newest
+  summary: Kubernetes cluster resource sanitizer
+  maintainers:
+    - dutra@freebsd.org
+  categories:
+    - sysutils
+- repo: homebrew
+  srcname: popeye
+  visiblename: popeye
+  version: 0.22.1
+  origversion: null
+  status: newest
+  summary: Kubernetes cluster resource sanitizer
+- repo: macports
+  srcname: sysutils/popeye
+  binname: popeye
+  visiblename: popeye
+  version: 0.22.1
+  origversion: null
+  status: newest
+  summary: A Kubernetes Cluster Sanitizer
+  maintainers:
+    - herbygillot@github
+  licenses:
+    - Apache-2
+  categories:
+    - sysutils
+- repo: manjaro_stable
+  subrepo: extra
+  srcname: popeye
+  binname: popeye
+  visiblename: popeye
+  version: 0.22.1
+  origversion: 0.22.1-1
+  status: newest
+  summary: Kubernetes cluster resource sanitizer
+  licenses:
+    - Apache
+- repo: manjaro_testing
+  subrepo: extra
+  srcname: popeye
+  binname: popeye
+  visiblename: popeye
+  version: 0.22.1
+  origversion: 0.22.1-1
+  status: newest
+  summary: Kubernetes cluster resource sanitizer
+  licenses:
+    - Apache
+- repo: manjaro_unstable
+  subrepo: extra
+  srcname: popeye
+  binname: popeye
+  visiblename: popeye
+  version: 0.22.1
+  origversion: 0.22.1-1
+  status: newest
+  summary: Kubernetes cluster resource sanitizer
+  licenses:
+    - Apache
+- repo: nix_stable_24_05
+  srcname: popeye
+  visiblename: popeye
+  version: 0.21.3
+  origversion: null
+  status: outdated
+  summary: A Kubernetes cluster resource sanitizer
+  maintainers:
+    - bryanasdev000@gmail.com
+  licenses:
+    - Apache-2.0
+- repo: nix_stable_24_11
+  srcname: popeye
+  visiblename: popeye
+  version: 0.21.5
+  origversion: null
+  status: outdated
+  summary: Kubernetes cluster resource sanitizer
+  maintainers:
+    - bryanasdev000@gmail.com
+  licenses:
+    - Apache-2.0
+- repo: nix_stable_25_05
+  srcname: popeye
+  visiblename: popeye
+  version: 0.22.1
+  origversion: null
+  status: newest
+  summary: Kubernetes cluster resource sanitizer
+  maintainers:
+    - bryanasdev000@gmail.com
+  licenses:
+    - Apache-2.0
+- repo: nix_stable_25_11
+  srcname: popeye
+  visiblename: popeye
+  version: 0.22.1
+  origversion: null
+  status: newest
+  summary: Kubernetes cluster resource sanitizer
+  maintainers:
+    - bryanasdev000@gmail.com
+  licenses:
+    - Apache-2.0
+- repo: nix_stable_26_05
+  srcname: popeye
+  visiblename: popeye
+  version: 0.22.1
+  origversion: null
+  status: newest
+  summary: Kubernetes cluster resource sanitizer
+  maintainers:
+    - fallback-mnt-nix@repology
+  licenses:
+    - Apache-2.0
+- repo: nix_unstable
+  srcname: popeye
+  visiblename: popeye
+  version: 0.22.1
+  origversion: null
+  status: newest
+  summary: Kubernetes cluster resource sanitizer
+  maintainers:
+    - fallback-mnt-nix@repology
+  licenses:
+    - Apache-2.0
+- repo: opensuse_tumbleweed
+  subrepo: src-oss
+  srcname: popeye
+  binnames:
+    - popeye
+    - popeye-debuginfo
+    - popeye-debugsource
+  visiblename: popeye
+  version: 0.22.1
+  origversion: 0.22.1-1.8
+  status: newest
+  summary: A Kubernetes cluster resource sanitizer
+  licenses:
+    - Apache-2.0
+  categories:
+    - Unspecified
+- repo: parabola
+  subrepo: extra
+  srcname: popeye
+  binname: popeye
+  visiblename: popeye
+  version: 0.22.1
+  origversion: 0.22.1-1
+  status: newest
+  summary: Kubernetes cluster resource sanitizer
+  licenses:
+    - Apache
+- repo: scoop
+  subrepo: main
+  binname: popeye
+  visiblename: popeye
+  version: 0.22.1
+  origversion: null
+  status: newest
+  licenses:
+    - Apache-2.0
