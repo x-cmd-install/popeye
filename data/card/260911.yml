@@ -7,7 +7,7 @@ about:
   latestVersion: "v0.22.1"
   latestRelease: "v0.22.1"
   latestPrerelease: "v0.6.2"
-  collectedAt: 2026-09-11T06:15:10Z
+  collectedAt: 2026-09-11T18:29:56Z
 timeline:
   created: 2019-03-18
   lastCommit: 2025-04-14
@@ -86,7 +86,7 @@ total:
   commit: 709
 ---
 path: /home/runner/.x-repo/github.com/derailed/popeye
-collectedAt: 2026-09-11T06:15:11Z
+collectedAt: 2026-09-11T18:30:00Z
 loc:
   Go:
     code: 17831
