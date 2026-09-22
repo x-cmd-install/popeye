@@ -48,22 +48,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 6,368 · **Forks**: 346 · **Open issues**: 235 · **Contributors**: 59
+- **Stars**: 6,370 · **Forks**: 346 · **Open issues**: 235 · **Contributors**: 59
 
 ## Totals (cumulative)
 
-- **Releases**: 70 · **Merged PRs**: 160 · **Open PRs**: 23 · **Closed issues**: 190 · **Open issues**: 45 · **Commits**: 709
+- **Releases**: 70 · **Merged PRs**: 160 · **Open PRs**: 22 · **Closed issues**: 190 · **Open issues**: 45 · **Commits**: 709
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-22 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-07-23 | 0 | 0 | 1 | 0 | 1 | 0 |
-| 90d | 2026-06-23 | 0 | 0 | 1 | 0 | 1 | 0 |
-| last180d | 2026-03-25 | 0 | 0 | 2 | 0 | 1 | 0 |
-| 360d | 2025-09-26 | 0 | 0 | 14 | 1 | 12 | 0 |
-| last720d | 2024-10-01 | 4 | 43 | 22 | 14 | 23 | 108 |
+| 30d | 2026-08-23 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-07-24 | 0 | 0 | 1 | 0 | 1 | 0 |
+| 90d | 2026-06-24 | 0 | 0 | 1 | 0 | 1 | 0 |
+| last180d | 2026-03-26 | 0 | 0 | 1 | 0 | 1 | 0 |
+| 360d | 2025-09-27 | 0 | 0 | 13 | 1 | 12 | 0 |
+| last720d | 2024-10-02 | 4 | 43 | 21 | 14 | 23 | 108 |
 
 ## Release assets
 
@@ -112,4 +112,4 @@ Install metadata for popeye lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260921.yml` · 2026-09-21T06:25:27Z._
+_Snapshot: `data/card/260922.yml` · 2026-09-22T06:22:13Z._
