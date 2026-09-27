@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 3038,
       "digest": null,
-      "download_count": 4485,
+      "download_count": 4505,
       "created_at": "2025-01-28T15:34:41Z",
       "updated_at": "2025-01-28T15:34:42Z",
       "browser_download_url": "https://github.com/derailed/popeye/releases/download/v0.22.1/checksums.sha256"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 21614363,
       "digest": null,
-      "download_count": 1294,
+      "download_count": 1295,
       "created_at": "2025-01-28T15:32:07Z",
       "updated_at": "2025-01-28T15:33:47Z",
       "browser_download_url": "https://github.com/derailed/popeye/releases/download/v0.22.1/popeye_darwin_amd64.tar.gz"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 234933,
       "digest": null,
-      "download_count": 23,
+      "download_count": 24,
       "created_at": "2025-01-28T15:34:40Z",
       "updated_at": "2025-01-28T15:34:41Z",
       "browser_download_url": "https://github.com/derailed/popeye/releases/download/v0.22.1/popeye_darwin_amd64.tar.gz.sbom.json"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 20278984,
       "digest": null,
-      "download_count": 11675,
+      "download_count": 11678,
       "created_at": "2025-01-28T15:32:07Z",
       "updated_at": "2025-01-28T15:33:29Z",
       "browser_download_url": "https://github.com/derailed/popeye/releases/download/v0.22.1/popeye_darwin_arm64.tar.gz"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 233462,
       "digest": null,
-      "download_count": 19,
+      "download_count": 20,
       "created_at": "2025-01-28T15:34:37Z",
       "updated_at": "2025-01-28T15:34:38Z",
       "browser_download_url": "https://github.com/derailed/popeye/releases/download/v0.22.1/popeye_darwin_arm64.tar.gz.sbom.json"
@@ -283,7 +283,7 @@
       "state": "uploaded",
       "size": 235088,
       "digest": null,
-      "download_count": 22,
+      "download_count": 23,
       "created_at": "2025-01-28T15:34:41Z",
       "updated_at": "2025-01-28T15:34:42Z",
       "browser_download_url": "https://github.com/derailed/popeye/releases/download/v0.22.1/popeye_freebsd_amd64.tar.gz.sbom.json"
@@ -355,7 +355,7 @@
       "state": "uploaded",
       "size": 233616,
       "digest": null,
-      "download_count": 18,
+      "download_count": 19,
       "created_at": "2025-01-28T15:34:35Z",
       "updated_at": "2025-01-28T15:34:36Z",
       "browser_download_url": "https://github.com/derailed/popeye/releases/download/v0.22.1/popeye_freebsd_arm64.tar.gz.sbom.json"
@@ -427,7 +427,7 @@
       "state": "uploaded",
       "size": 21224650,
       "digest": null,
-      "download_count": 4012,
+      "download_count": 4024,
       "created_at": "2025-01-28T15:34:24Z",
       "updated_at": "2025-01-28T15:34:59Z",
       "browser_download_url": "https://github.com/derailed/popeye/releases/download/v0.22.1/popeye_linux_amd64.deb"
@@ -499,7 +499,7 @@
       "state": "uploaded",
       "size": 21148625,
       "digest": null,
-      "download_count": 69052,
+      "download_count": 69124,
       "created_at": "2025-01-28T15:32:07Z",
       "updated_at": "2025-01-28T15:33:38Z",
       "browser_download_url": "https://github.com/derailed/popeye/releases/download/v0.22.1/popeye_linux_amd64.tar.gz"
@@ -535,7 +535,7 @@
       "state": "uploaded",
       "size": 234776,
       "digest": null,
-      "download_count": 33,
+      "download_count": 34,
       "created_at": "2025-01-28T15:34:39Z",
       "updated_at": "2025-01-28T15:34:40Z",
       "browser_download_url": "https://github.com/derailed/popeye/releases/download/v0.22.1/popeye_linux_amd64.tar.gz.sbom.json"
@@ -679,7 +679,7 @@
       "state": "uploaded",
       "size": 19275906,
       "digest": null,
-      "download_count": 6920,
+      "download_count": 6937,
       "created_at": "2025-01-28T15:32:06Z",
       "updated_at": "2025-01-28T15:33:20Z",
       "browser_download_url": "https://github.com/derailed/popeye/releases/download/v0.22.1/popeye_linux_arm64.tar.gz"
@@ -715,7 +715,7 @@
       "state": "uploaded",
       "size": 233308,
       "digest": null,
-      "download_count": 13,
+      "download_count": 14,
       "created_at": "2025-01-28T15:34:37Z",
       "updated_at": "2025-01-28T15:34:38Z",
       "browser_download_url": "https://github.com/derailed/popeye/releases/download/v0.22.1/popeye_linux_arm64.tar.gz.sbom.json"
@@ -895,7 +895,7 @@
       "state": "uploaded",
       "size": 233614,
       "digest": null,
-      "download_count": 12,
+      "download_count": 13,
       "created_at": "2025-01-28T15:34:34Z",
       "updated_at": "2025-01-28T15:34:35Z",
       "browser_download_url": "https://github.com/derailed/popeye/releases/download/v0.22.1/popeye_linux_ppc64le.tar.gz.sbom.json"
@@ -1075,7 +1075,7 @@
       "state": "uploaded",
       "size": 233308,
       "digest": null,
-      "download_count": 12,
+      "download_count": 13,
       "created_at": "2025-01-28T15:34:41Z",
       "updated_at": "2025-01-28T15:34:42Z",
       "browser_download_url": "https://github.com/derailed/popeye/releases/download/v0.22.1/popeye_linux_s390x.tar.gz.sbom.json"
@@ -1111,7 +1111,7 @@
       "state": "uploaded",
       "size": 20863743,
       "digest": null,
-      "download_count": 922,
+      "download_count": 923,
       "created_at": "2025-01-28T15:32:07Z",
       "updated_at": "2025-01-28T15:33:42Z",
       "browser_download_url": "https://github.com/derailed/popeye/releases/download/v0.22.1/popeye_windows_amd64.tar.gz"
@@ -1147,7 +1147,7 @@
       "state": "uploaded",
       "size": 232137,
       "digest": null,
-      "download_count": 25,
+      "download_count": 26,
       "created_at": "2025-01-28T15:34:39Z",
       "updated_at": "2025-01-28T15:34:40Z",
       "browser_download_url": "https://github.com/derailed/popeye/releases/download/v0.22.1/popeye_windows_amd64.tar.gz.sbom.json"
@@ -1219,7 +1219,7 @@
       "state": "uploaded",
       "size": 230657,
       "digest": null,
-      "download_count": 13,
+      "download_count": 14,
       "created_at": "2025-01-28T15:34:32Z",
       "updated_at": "2025-01-28T15:34:33Z",
       "browser_download_url": "https://github.com/derailed/popeye/releases/download/v0.22.1/popeye_windows_arm64.tar.gz.sbom.json"
