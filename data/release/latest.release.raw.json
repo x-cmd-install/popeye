@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 3038,
       "digest": null,
-      "download_count": 5186,
+      "download_count": 5224,
       "created_at": "2025-01-28T15:34:41Z",
       "updated_at": "2025-01-28T15:34:42Z",
       "browser_download_url": "https://github.com/derailed/popeye/releases/download/v0.22.1/checksums.sha256"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 21614363,
       "digest": null,
-      "download_count": 1350,
+      "download_count": 1351,
       "created_at": "2025-01-28T15:32:07Z",
       "updated_at": "2025-01-28T15:33:47Z",
       "browser_download_url": "https://github.com/derailed/popeye/releases/download/v0.22.1/popeye_darwin_amd64.tar.gz"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 20278984,
       "digest": null,
-      "download_count": 12057,
+      "download_count": 12071,
       "created_at": "2025-01-28T15:32:07Z",
       "updated_at": "2025-01-28T15:33:29Z",
       "browser_download_url": "https://github.com/derailed/popeye/releases/download/v0.22.1/popeye_darwin_arm64.tar.gz"
@@ -391,7 +391,7 @@
       "state": "uploaded",
       "size": 22151332,
       "digest": null,
-      "download_count": 267,
+      "download_count": 268,
       "created_at": "2025-01-28T15:33:39Z",
       "updated_at": "2025-01-28T15:34:50Z",
       "browser_download_url": "https://github.com/derailed/popeye/releases/download/v0.22.1/popeye_linux_amd64.apk"
@@ -427,7 +427,7 @@
       "state": "uploaded",
       "size": 21224650,
       "digest": null,
-      "download_count": 4196,
+      "download_count": 4199,
       "created_at": "2025-01-28T15:34:24Z",
       "updated_at": "2025-01-28T15:34:59Z",
       "browser_download_url": "https://github.com/derailed/popeye/releases/download/v0.22.1/popeye_linux_amd64.deb"
@@ -499,7 +499,7 @@
       "state": "uploaded",
       "size": 21148625,
       "digest": null,
-      "download_count": 74023,
+      "download_count": 74264,
       "created_at": "2025-01-28T15:32:07Z",
       "updated_at": "2025-01-28T15:33:38Z",
       "browser_download_url": "https://github.com/derailed/popeye/releases/download/v0.22.1/popeye_linux_amd64.tar.gz"
@@ -679,7 +679,7 @@
       "state": "uploaded",
       "size": 19275906,
       "digest": null,
-      "download_count": 7462,
+      "download_count": 7506,
       "created_at": "2025-01-28T15:32:06Z",
       "updated_at": "2025-01-28T15:33:20Z",
       "browser_download_url": "https://github.com/derailed/popeye/releases/download/v0.22.1/popeye_linux_arm64.tar.gz"
@@ -859,7 +859,7 @@
       "state": "uploaded",
       "size": 18699850,
       "digest": null,
-      "download_count": 16,
+      "download_count": 17,
       "created_at": "2025-01-28T15:32:07Z",
       "updated_at": "2025-01-28T15:33:19Z",
       "browser_download_url": "https://github.com/derailed/popeye/releases/download/v0.22.1/popeye_linux_ppc64le.tar.gz"
@@ -1039,7 +1039,7 @@
       "state": "uploaded",
       "size": 20351166,
       "digest": null,
-      "download_count": 17,
+      "download_count": 18,
       "created_at": "2025-01-28T15:32:07Z",
       "updated_at": "2025-01-28T15:33:25Z",
       "browser_download_url": "https://github.com/derailed/popeye/releases/download/v0.22.1/popeye_linux_s390x.tar.gz"
@@ -1111,7 +1111,7 @@
       "state": "uploaded",
       "size": 20863743,
       "digest": null,
-      "download_count": 984,
+      "download_count": 995,
       "created_at": "2025-01-28T15:32:07Z",
       "updated_at": "2025-01-28T15:33:42Z",
       "browser_download_url": "https://github.com/derailed/popeye/releases/download/v0.22.1/popeye_windows_amd64.tar.gz"
