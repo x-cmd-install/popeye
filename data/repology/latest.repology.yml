@@ -72,9 +72,9 @@
   srcname: popeye
   binname: popeye
   visiblename: popeye
-  version: 0.11.1
-  origversion: 0.11.1-2
-  status: outdated
+  version: 0.22.1
+  origversion: 0.22.1-1
+  status: newest
   summary: Kubernetes cluster resource sanitizer
   licenses:
     - Apache
@@ -83,9 +83,9 @@
   srcname: popeye
   binname: popeye
   visiblename: popeye
-  version: 0.11.1
-  origversion: 0.11.1-2
-  status: outdated
+  version: 0.22.1
+  origversion: 0.22.1-1
+  status: newest
   summary: Kubernetes cluster resource sanitizer
   licenses:
     - Apache
