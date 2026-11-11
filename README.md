@@ -30,9 +30,9 @@ Overall score: **2.6 / 10**
 
 Lowest-scoring checks:
 
-- **Maintained** (0/10) — 0 commit(s) and 0 issue activity found in the last 90 days -- score normalized to 0
 - **Code-Review** (1/10) — Found 1/6 approved changesets -- score normalized to 1
-- **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
+- **Packaging** (-1/10) — packaging workflow not detected
+- **Maintained** (0/10) — 0 commit(s) and 0 issue activity found in the last 90 days -- score normalized to 0
 
 ## Source
 
@@ -48,7 +48,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 6,468 · **Forks**: 357 · **Open issues**: 237 · **Contributors**: 59
+- **Stars**: 6,471 · **Forks**: 357 · **Open issues**: 237 · **Contributors**: 59
 
 ## Totals (cumulative)
 
@@ -58,12 +58,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-11 | 0 | 0 | 1 | 0 | 1 | 0 |
-| last60d | 2026-09-11 | 0 | 0 | 2 | 1 | 1 | 0 |
-| 90d | 2026-08-12 | 0 | 0 | 2 | 1 | 1 | 0 |
-| last180d | 2026-05-14 | 0 | 0 | 3 | 1 | 2 | 0 |
-| 360d | 2025-11-15 | 0 | 0 | 13 | 2 | 11 | 0 |
-| last720d | 2024-11-20 | 4 | 31 | 23 | 12 | 22 | 83 |
+| 30d | 2026-10-12 | 0 | 0 | 1 | 0 | 1 | 0 |
+| last60d | 2026-09-12 | 0 | 0 | 2 | 1 | 1 | 0 |
+| 90d | 2026-08-13 | 0 | 0 | 2 | 1 | 1 | 0 |
+| last180d | 2026-05-15 | 0 | 0 | 3 | 1 | 2 | 0 |
+| 360d | 2025-11-16 | 0 | 0 | 13 | 2 | 11 | 0 |
+| last720d | 2024-11-21 | 4 | 31 | 23 | 12 | 22 | 83 |
 
 ## Release assets
 
@@ -124,4 +124,4 @@ Install metadata for popeye lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261110.yml` · 2026-11-10T08:48:12Z._
+_Snapshot: `data/card/261111.yml` · 2026-11-11T07:46:51Z._
