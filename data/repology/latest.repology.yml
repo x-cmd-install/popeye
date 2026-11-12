@@ -1,3 +1,14 @@
+- repo: nix_stable_25_11
+  srcname: popeye
+  visiblename: popeye
+  version: 0.22.1
+  origversion: null
+  status: newest
+  summary: Kubernetes cluster resource sanitizer
+  maintainers:
+    - bryanasdev000@gmail.com
+  licenses:
+    - Apache-2.0
 - repo: alpine_edge
   subrepo: testing
   srcname: popeye
@@ -39,7 +50,7 @@
   binname: popeye
   visiblename: sysutils/popeye
   version: 0.22.1
-  origversion: 0.22.1_17
+  origversion: 0.22.1_18
   status: newest
   summary: Kubernetes cluster resource sanitizer
   maintainers:
@@ -123,17 +134,6 @@
   licenses:
     - Apache-2.0
 - repo: nix_stable_25_05
-  srcname: popeye
-  visiblename: popeye
-  version: 0.22.1
-  origversion: null
-  status: newest
-  summary: Kubernetes cluster resource sanitizer
-  maintainers:
-    - bryanasdev000@gmail.com
-  licenses:
-    - Apache-2.0
-- repo: nix_stable_25_11
   srcname: popeye
   visiblename: popeye
   version: 0.22.1
