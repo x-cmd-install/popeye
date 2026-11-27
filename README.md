@@ -48,22 +48,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 6,473 · **Forks**: 357 · **Open issues**: 237 · **Contributors**: 59
+- **Stars**: 6,473 · **Forks**: 357 · **Open issues**: 238 · **Contributors**: 59
 
 ## Totals (cumulative)
 
-- **Releases**: 70 · **Merged PRs**: 160 · **Open PRs**: 24 · **Closed issues**: 191 · **Open issues**: 46 · **Commits**: 709
+- **Releases**: 70 · **Merged PRs**: 160 · **Open PRs**: 24 · **Closed issues**: 191 · **Open issues**: 47 · **Commits**: 709
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-27 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-09-27 | 0 | 0 | 2 | 0 | 1 | 0 |
-| 90d | 2026-08-28 | 0 | 0 | 2 | 1 | 1 | 0 |
-| last180d | 2026-05-30 | 0 | 0 | 3 | 1 | 2 | 0 |
-| 360d | 2025-12-01 | 0 | 0 | 10 | 2 | 10 | 0 |
-| last720d | 2024-12-06 | 4 | 31 | 23 | 11 | 22 | 83 |
+| 30d | 2026-10-28 | 0 | 0 | 0 | 0 | 1 | 0 |
+| last60d | 2026-09-28 | 0 | 0 | 2 | 0 | 2 | 0 |
+| 90d | 2026-08-29 | 0 | 0 | 2 | 1 | 2 | 0 |
+| last180d | 2026-05-31 | 0 | 0 | 3 | 1 | 3 | 0 |
+| 360d | 2025-12-02 | 0 | 0 | 10 | 2 | 11 | 0 |
+| last720d | 2024-12-07 | 4 | 31 | 23 | 11 | 23 | 83 |
 
 ## Release assets
 
@@ -103,18 +103,6 @@ Lowest-scoring checks:
 | [popeye_windows_arm64.tar.gz](https://github.com/derailed/popeye/releases/download/v0.22.1/popeye_windows_arm64.tar.gz) | 17.7 MiB | `native/win/arm64` |
 | [popeye_windows_arm64.tar.gz.sbom.json](https://github.com/derailed/popeye/releases/download/v0.22.1/popeye_windows_arm64.tar.gz.sbom.json) | 225.3 KiB | `native/win/arm64` |
 
-## Distribution status
-
-Reported by **18** distros on [repology.org](https://repology.org/project/popeye). **16** are ✅ on the latest upstream release, **2** are ⚠️ on an older version.
-
-| Distro | Version | Status |
-|--------|---------|--------|
-| Arch | `0.22.1` | ✅ latest |
-| Homebrew | `0.22.1` | ✅ latest |
-| Nix unstable | `0.22.1` | ✅ latest |
-| Alpine edge | `0.22.1` | ✅ latest |
-| openSUSE Tumbleweed | `0.22.1` | ✅ latest |
-
 ## Improve this data
 
 Install metadata for popeye lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `popeye` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -124,4 +112,4 @@ Install metadata for popeye lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261126.yml` · 2026-11-26T09:00:59Z._
+_Snapshot: `data/card/261127.yml` · 2026-11-27T09:50:47Z._
